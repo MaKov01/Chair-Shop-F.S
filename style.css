@@ -14,12 +14,7 @@ body{
 
 .nav{
 	background: radial-gradient(#c72, #422);
-	padding: 13px;
-}
-
-.nav__ul{
-	padding: 5px;
-	margin: 4px;
+	padding: 20px;
 }
 
 .nav__ul h1{
@@ -31,6 +26,7 @@ body{
 	margin: 0 20px;
 	font-size: 18px;
 	list-style: none;
+
 }
 
 .nav__ul a{
