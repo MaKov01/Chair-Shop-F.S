@@ -50,18 +50,23 @@ body{
 	margin: auto;
 }
 
-.section__article-model{
+.section__article{
 	width: 100%;
+	padding: 10px;
+}
+
+.section__article-model{
 	display: flex;
 	text-align: right;
 	background: #c84;
 	padding: 20px;
 	border-radius: 13px;
-	margin: 0 0 40px 0 ;
+	margin: 0 0 40px 0;
 }
 
 .section__article-model img{
 	width: 340px;
+	height: 400px;
 	background: #fff;
 	border-radius: 30%;
 	border: 5px solid #444;
@@ -89,14 +94,14 @@ body{
 
 .section__article-model-info span{
 	display: inline-block;
-	margin-top: 90px;
+	margin-top: 60px;
 	color: #a44;
 }
 
 .two img{
 	order: 2;
-	width: 400px;
-	height: 480px;
+	width: 370px;
+	height: 440px;
 }
 
 .two p{
