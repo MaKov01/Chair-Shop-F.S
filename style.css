@@ -44,10 +44,10 @@ body{
 }
 
 .container{
-	
-	width: 1150px;
+	display: flex;
+	width: 1050px;
+	padding: 30px;
 	margin: auto;
-	padding: 40px;
 }
 
 .section__article-model{
@@ -57,7 +57,7 @@ body{
 	background: #c84;
 	padding: 20px;
 	border-radius: 13px;
-	margin: 0 0 50px 0;
+	margin: 0 0 40px 0 ;
 }
 
 .section__article-model img{
