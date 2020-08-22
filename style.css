@@ -44,24 +44,20 @@ body{
 }
 
 .container{
-	display: flex;
-	width: 1050px;
-	padding: 30px;
+	width: 960px;
 	margin: auto;
 }
 
 .section__article{
 	width: 100%;
-	padding: 10px;
 }
 
 .section__article-model{
 	display: flex;
-	text-align: right;
 	background: #c84;
-	padding: 20px;
+	padding: 10px;
 	border-radius: 13px;
-	margin: 0 0 40px 0;
+	margin: 35px 0;
 }
 
 .section__article-model img{
@@ -72,11 +68,10 @@ body{
 	border: 5px solid #444;
 	object-fit: cover;
 	object-position: center;
-	margin: 10px 30px;
+	margin: 10px 15px;
 }
 
 .section__article-model-info {
-	width: 100%;
 	text-align: center;
 	padding: 30px;
 }
@@ -109,7 +104,7 @@ body{
 }
 
 .footer{
-	margin-top: 40px;
+	margin: 40px;
 	display: inline-block;
 	width: 100%;
 }
